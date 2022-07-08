@@ -95,8 +95,8 @@ EXACT_MATCH_ONLY         = 0x0000000000000002 # Make Enumeration knobs use exact
 STRIP_CASCADE_PREFIX     = 0x0000000000000004 # Make Cascading Enumeration knobs not serialise out cascading prefixes
 
 # SceneView knob
-SINGLE_SELECTION_ONLY     = 0x0000000000000001 # Knob only allows one item to be selected at a time
-SHOW_BUTTONS              = 0x0000000000000002 # Show Add Layer/Delete Layer buttons
+SINGLE_SELECTION_ONLY    = 0x0000000000000001 # Knob only allows one item to be selected at a time
+SHOW_BUTTONS             = 0x0000000000000002 # Show Add Layer/Delete Layer buttons
 
 # BeginGroup
 CLOSED                   = 0x0000000000000001 # Stores the open/closed state of group knobs (group knobs).
