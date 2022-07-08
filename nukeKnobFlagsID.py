@@ -1,8 +1,6 @@
 '''
 current verison: NukeX 12.1v1
-
-nuke flags for access from 
-offline:(Help >> Documentation >> C++ Plug-in Development >> Header files >>) /include/DDImage/Knob.h
+nuke flags for access from (NukeX Client >> Help >> Documentation >> C++ Plug-in Development >> Header files >>) /include/DDImage/Knob.h
 '''
 
 
