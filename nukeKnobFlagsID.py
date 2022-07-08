@@ -116,8 +116,8 @@ FULL_LAYER_ENABLED       = 0x0000000000000004 # channel/channelset knobs will al
 PROXY_DEFAULT            = 0x0000000000000001 # Sets default knob value from script proxy format rather than full res (format knob).
 
 # ColorChip knob
-COLORCHIP_PRESERVE_ALPHA  = 0x0000010000000000 # The ColorChip_knob discards alpha values by default.
-                                               # Set this flag to make it keep them, instead.
+COLORCHIP_PRESERVE_ALPHA = 0x0000010000000000 # The ColorChip_knob discards alpha values by default.
+                                              # Set this flag to make it keep them, instead.
 
 # Colorspace Knob
 ALLOW_NUKE_COLORSPACES   = 0x0000000000000001 # Allows the knob to display Nuke's native colorspaces if Color Management is set to Nuke.
