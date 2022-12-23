@@ -1,6 +1,6 @@
 '''
 current verison: NukeX 12.1v1
-nuke flags for access from [NukeX Client] >> [Help] >> [Documentation] >> C++ Plug-in Development >> Header files >> DDImage >> Knob.h.
+nuke flags for access from [NukeX Client] >> [Help] >> [Documentation] >> [C++ Plug-in Development] >> [Header files] >> [DDImage] >> [Knob.h].
 '''
 
 
